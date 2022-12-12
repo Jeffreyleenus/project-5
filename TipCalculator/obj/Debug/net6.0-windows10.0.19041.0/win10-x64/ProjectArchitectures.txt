@@ -1,0 +1,1 @@
+F:\Downloads\Calculator App Work\TipCalculator\TipCalculator.csproj;x64
